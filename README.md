@@ -90,7 +90,7 @@ Flood-Damage-Detection-CNN
 # Installation
 
 bash
-git clone https://github.com/YourUsername/Flood-Damage-Detection-CNN.git
+git clone https://github.com/Sonumb25/Flood-Damage-Detection--CNN/edit/main/README.md
 
 cd Flood-Damage-Detection-CNN
 
